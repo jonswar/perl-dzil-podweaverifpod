@@ -1,10 +1,5 @@
 ^MANIFEST.SKIP$
-^NOTES
-^TODO
-^bench
-^data
 ^dist.ini
-^docs
 ^git
 ^htdocs
 ^release
