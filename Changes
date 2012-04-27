@@ -4,6 +4,8 @@ Revision history for Dist-Zilla-Plugin-PodWeaverIfPod
 
 0.02  Apr 26, 2012
 
+- Fix dist.ini
+
 0.01 Apr 26, 2012
 
 - Initial version
